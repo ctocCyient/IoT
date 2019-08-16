@@ -1,0 +1,27 @@
+{
+"configuration" : {
+  "stop_bit": 1,
+  "method": "rtu",
+  "port": "/dev/ttyUSB0",
+  "bytesize": 8,
+  "parity": "N",
+  "baudrate": 9600
+},
+  "Temperature_Temperature":
+  {
+  "Gatewayname":"Madhapur",
+  "DeviceType":"Analog",
+  "RegisterType":"holding",
+  "Register_address": "0x00",
+  "Slave_id": "0xff",
+  "Multiplier":"0.001",
+  "Threshold":"23.52"
+  },
+  "PIR":
+{
+  "DeviceType":"Digital",
+  "PIN":4,
+  "Mode":"Pull_down"
+}
+
+}
