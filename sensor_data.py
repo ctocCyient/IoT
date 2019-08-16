@@ -29,12 +29,13 @@ def read_data_rs485_holding(configuration,device):
     return "23.5"
 
 
-"""def read_data_IO(pin,mode):
-    GPIO.setmode(GPIO.BCM)
+def read_data_IO(pin,mode):
+    """GPIO.setmode(GPIO.BCM)
     GPIO.setup(4, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
-    return GPIO.input(4)
+    return GPIO.input(4)"""
+    return 0
 
-"""
+
 
 def write_data_rs485(configuration, device):
     client= ModbusClient(method = "rtu", port="/dev/ttyUSB0",stopbits = 1, bytesize = 8, parity = 'E',baudrate= 9600)

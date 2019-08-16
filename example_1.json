@@ -19,6 +19,7 @@
   },
   "PIR":
 {
+  "Gatewayname":"Madhapur",
   "DeviceType":"Digital",
   "PIN":4,
   "Mode":"Pull_down"
