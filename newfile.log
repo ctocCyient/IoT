@@ -1,0 +1,15 @@
+2019-08-18 09:09:02,085 Harmless debug Message
+2019-08-18 09:09:02,085 {'configuration': {'stop_bit': 1, 'method': 'rtu', 'port': '/dev/ttyUSB0', 'bytesize': 8, 'parity': 'N', 'baudrate': 9600, 'serviceURL': '', 'Data_interval': '60'}, 'Temperature_Temperature': {'Gatewayname': 'Madhapur', 'DeviceType': 'Analog', 'RegisterType': 'holding', 'Register_address': '0x00', 'Slave_id': '0xff', 'Multiplier': '0.001', 'Threshold': '23.52'}, 'PIR': {'Gatewayname': 'Madhapur', 'DeviceType': 'Digital', 'PIN': 4, 'Mode': 'Pull_down'}}
+2019-08-18 09:09:02,085 Its a Warning
+2019-08-18 09:09:02,085 Did you try to divide by zero
+2019-08-18 09:09:02,085 Internet is down
+DEBUG:root:Harmless debug Message
+INFO:root:{'configuration': {'stop_bit': 1, 'method': 'rtu', 'port': '/dev/ttyUSB0', 'bytesize': 8, 'parity': 'N', 'baudrate': 9600, 'serviceURL': '', 'Data_interval': '60'}, 'Temperature_Temperature': {'Gatewayname': 'Madhapur', 'DeviceType': 'Analog', 'RegisterType': 'holding', 'Register_address': '0x00', 'Slave_id': '0xff', 'Multiplier': '0.001', 'Threshold': '23.52'}, 'PIR': {'Gatewayname': 'Madhapur', 'DeviceType': 'Digital', 'PIN': 4, 'Mode': 'Pull_down'}}
+WARNING:root:Its a Warning
+ERROR:root:Did you try to divide by zero
+CRITICAL:root:Internet is down
+2019-08-18 09:10:13,043 Harmless debug Message
+2019-08-18 09:10:13,043 {'configuration': {'stop_bit': 1, 'method': 'rtu', 'port': '/dev/ttyUSB0', 'bytesize': 8, 'parity': 'N', 'baudrate': 9600, 'serviceURL': '', 'Data_interval': '60'}, 'Temperature_Temperature': {'Gatewayname': 'Madhapur', 'DeviceType': 'Analog', 'RegisterType': 'holding', 'Register_address': '0x00', 'Slave_id': '0xff', 'Multiplier': '0.001', 'Threshold': '23.52'}, 'PIR': {'Gatewayname': 'Madhapur', 'DeviceType': 'Digital', 'PIN': 4, 'Mode': 'Pull_down'}}
+2019-08-18 09:10:13,043 Its a Warning
+2019-08-18 09:10:13,043 Did you try to divide by zero
+2019-08-18 09:10:13,043 Internet is down

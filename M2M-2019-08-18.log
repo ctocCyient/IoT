@@ -1,0 +1,44 @@
+2019-08-18 09:15:31,766 Harmless debug Message
+2019-08-18 09:15:31,766 {'configuration': {'stop_bit': 1, 'method': 'rtu', 'port': '/dev/ttyUSB0', 'bytesize': 8, 'parity': 'N', 'baudrate': 9600, 'serviceURL': '', 'Data_interval': '60'}, 'Temperature_Temperature': {'Gatewayname': 'Madhapur', 'DeviceType': 'Analog', 'RegisterType': 'holding', 'Register_address': '0x00', 'Slave_id': '0xff', 'Multiplier': '0.001', 'Threshold': '23.52'}, 'PIR': {'Gatewayname': 'Madhapur', 'DeviceType': 'Digital', 'PIN': 4, 'Mode': 'Pull_down'}}
+2019-08-18 09:15:31,766 Its a Warning
+2019-08-18 09:15:31,766 Did you try to divide by zero
+2019-08-18 09:15:31,766 Internet is down
+2019-08-18 09:20:43,785 Harmless debug Message
+2019-08-18 09:20:43,785 {'configuration': {'stop_bit': 1, 'method': 'rtu', 'port': '/dev/ttyUSB0', 'bytesize': 8, 'parity': 'N', 'baudrate': 9600, 'serviceURL': '', 'Data_interval': '60'}, 'Temperature_Temperature': {'Gatewayname': 'Madhapur', 'DeviceType': 'Analog', 'RegisterType': 'holding', 'Register_address': '0x00', 'Slave_id': '0xff', 'Multiplier': '0.001', 'Threshold': '23.52'}, 'PIR': {'Gatewayname': 'Madhapur', 'DeviceType': 'Digital', 'PIN': 4, 'Mode': 'Pull_down'}}
+2019-08-18 09:20:43,785 Its a Warning
+2019-08-18 09:20:43,785 Did you try to divide by zero
+2019-08-18 09:20:43,785 Internet is down
+2019-08-18 09:20:58,224 Harmless debug Message
+2019-08-18 09:20:58,224 {'configuration': {'stop_bit': 1, 'method': 'rtu', 'port': '/dev/ttyUSB0', 'bytesize': 8, 'parity': 'N', 'baudrate': 9600, 'serviceURL': '', 'Data_interval': '60'}, 'Temperature_Temperature': {'Gatewayname': 'Madhapur', 'DeviceType': 'Analog', 'RegisterType': 'holding', 'Register_address': '0x00', 'Slave_id': '0xff', 'Multiplier': '0.001', 'Threshold': '23.52'}, 'PIR': {'Gatewayname': 'Madhapur', 'DeviceType': 'Digital', 'PIN': 4, 'Mode': 'Pull_down'}}
+2019-08-18 09:20:58,224 Its a Warning
+2019-08-18 09:20:58,224 Did you try to divide by zero
+2019-08-18 09:20:58,224 Internet is down
+2019-08-18 09:21:28,700 Harmless debug Message
+2019-08-18 09:21:28,700 {'configuration': {'stop_bit': 1, 'method': 'rtu', 'port': '/dev/ttyUSB0', 'bytesize': 8, 'parity': 'N', 'baudrate': 9600, 'serviceURL': '', 'Data_interval': '60'}, 'Temperature_Temperature': {'Gatewayname': 'Madhapur', 'DeviceType': 'Analog', 'RegisterType': 'holding', 'Register_address': '0x00', 'Slave_id': '0xff', 'Multiplier': '0.001', 'Threshold': '23.52'}, 'PIR': {'Gatewayname': 'Madhapur', 'DeviceType': 'Digital', 'PIN': 4, 'Mode': 'Pull_down'}}
+2019-08-18 09:21:28,700 Its a Warning
+2019-08-18 09:21:28,700 Did you try to divide by zero
+2019-08-18 09:21:28,701 Internet is down
+2019-08-18 09:21:31,397 {'Gatewayname': 'Madhapur', 'parameter': 'PIR', 'timestamp': 1566100291, 'value': 0}
+2019-08-18 09:21:41,395 {'Gatewayname': 'Madhapur', 'parameter': 'PIR', 'timestamp': 1566100301, 'value': 0}
+2019-08-18 09:21:51,396 {'Gatewayname': 'Madhapur', 'parameter': 'PIR', 'timestamp': 1566100311, 'value': 0}
+2019-08-18 09:22:01,396 {'Gatewayname': 'Madhapur', 'parameter': 'PIR', 'timestamp': 1566100321, 'value': 0}
+2019-08-18 09:22:11,396 {'Gatewayname': 'Madhapur', 'parameter': 'PIR', 'timestamp': 1566100331, 'value': 0}
+2019-08-18 09:22:21,396 {'Gatewayname': 'Madhapur', 'parameter': 'PIR', 'timestamp': 1566100341, 'value': 0}
+2019-08-18 09:22:31,397 {'Gatewayname': 'Madhapur', 'parameter': 'PIR', 'timestamp': 1566100351, 'value': 0}
+2019-08-18 09:22:41,398 {'Gatewayname': 'Madhapur', 'parameter': 'PIR', 'timestamp': 1566100361, 'value': 0}
+2019-08-18 09:22:51,398 {'Gatewayname': 'Madhapur', 'parameter': 'PIR', 'timestamp': 1566100371, 'value': 0}
+2019-08-18 09:23:01,399 {'Gatewayname': 'Madhapur', 'parameter': 'PIR', 'timestamp': 1566100381, 'value': 0}
+2019-08-18 09:23:11,400 {'Gatewayname': 'Madhapur', 'parameter': 'PIR', 'timestamp': 1566100391, 'value': 0}
+2019-08-18 09:23:21,400 {'Gatewayname': 'Madhapur', 'parameter': 'PIR', 'timestamp': 1566100401, 'value': 0}
+2019-08-18 09:23:31,400 {'Gatewayname': 'Madhapur', 'parameter': 'PIR', 'timestamp': 1566100411, 'value': 0}
+2019-08-18 09:23:41,400 {'Gatewayname': 'Madhapur', 'parameter': 'PIR', 'timestamp': 1566100421, 'value': 0}
+2019-08-18 09:23:51,400 {'Gatewayname': 'Madhapur', 'parameter': 'PIR', 'timestamp': 1566100431, 'value': 0}
+2019-08-18 09:24:01,401 {'Gatewayname': 'Madhapur', 'parameter': 'PIR', 'timestamp': 1566100441, 'value': 0}
+2019-08-18 09:24:11,401 {'Gatewayname': 'Madhapur', 'parameter': 'PIR', 'timestamp': 1566100451, 'value': 0}
+2019-08-18 09:24:21,401 {'Gatewayname': 'Madhapur', 'parameter': 'PIR', 'timestamp': 1566100461, 'value': 0}
+2019-08-18 09:24:31,401 {'Gatewayname': 'Madhapur', 'parameter': 'PIR', 'timestamp': 1566100471, 'value': 0}
+2019-08-18 09:24:41,401 {'Gatewayname': 'Madhapur', 'parameter': 'PIR', 'timestamp': 1566100481, 'value': 0}
+2019-08-18 09:24:51,403 {'Gatewayname': 'Madhapur', 'parameter': 'PIR', 'timestamp': 1566100491, 'value': 0}
+2019-08-18 09:25:01,403 {'Gatewayname': 'Madhapur', 'parameter': 'PIR', 'timestamp': 1566100501, 'value': 0}
+2019-08-18 09:25:11,403 {'Gatewayname': 'Madhapur', 'parameter': 'PIR', 'timestamp': 1566100511, 'value': 0}
+2019-08-18 09:25:21,404 {'Gatewayname': 'Madhapur', 'parameter': 'PIR', 'timestamp': 1566100521, 'value': 0}
